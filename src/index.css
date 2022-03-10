@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color:aqua;
+
+}
+.greet{
+
+    margin-top: 10px;
+    margin-left: 70px;
+}
+.date{
+text-align: end;
+margin-right: 100px;
+margin-top: 20px
+}
