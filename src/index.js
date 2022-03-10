@@ -48,7 +48,7 @@ let currDate = new Date();
 ReactDOM.render(
 
 <>
-<h1 className='greet'> Hello Rashvi, <span style={greetstyle}> {greeting} </span></h1>
+<h1 className='greet'> Hello Sir/ma'am , <span style={greetstyle}> {greeting} </span></h1>
 <h2 style={name} > I'm {fname} {mname} {lname}</h2>
 <div className='date'>
 <p> Today date is {currentDate}</p>
